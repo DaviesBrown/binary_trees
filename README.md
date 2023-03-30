@@ -1,2 +1,2 @@
-# binary_trees
-BT, BST, AVL 
+# Binary Trees 
+C Binary Trees project
